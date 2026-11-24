@@ -1,4 +1,4 @@
-namespace Menu
+namespace WF_Controls_MenuEx
 {
 	internal static class Program
 	{
